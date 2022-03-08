@@ -1,0 +1,44 @@
+div {
+    background: url(../exCartaoDeVisita/imagens/backgorund.png)no-repeat;
+    width: 400px;
+    height: 200px;
+    box-sizing: border-box;
+    padding: 1px ;
+    border: 2px solid;
+    background-size: 100%;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+#insta {
+  
+    
+    list-style-image: url("../exCartaoDeVisita/imagens/Insta.png");
+    vertical-align: middle;
+}
+
+#tt {
+    list-style-image: url("../exCartaoDeVisita/imagens/Twitter.png");
+    vertical-align: middle;
+}
+
+#yt {
+    vertical-align: middle;
+    list-style-image: url("../exCartaoDeVisita/imagens/Youtube.png");
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    font-size: 1.2em;
+   
+}
+
+h1{
+    margin-left: 2px;
+}
+li{
+
+    vertical-align: middle;
+}
